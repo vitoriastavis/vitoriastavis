@@ -1,5 +1,8 @@
-    👋 Hi, I’m @vitoriastavis
-    👀 I’m interested in neuroscience, genetics, molecular biology, data science, bioinformatics, games and music!
-    🌱 I’m currently learning data science with Python and R.
-    💞️ I’m looking to collaborate on ...
-    📫 How to reach me at https://www.linkedin.com/in/vitória-stavis-de-araujo-54641b1b5
+### Hey there. I am Vitória Stavis de Araujo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+## I am from Curitiba, Paraná, Brazil
+
+
+
+
+<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/seu_usuário/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)  
