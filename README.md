@@ -1,4 +1,4 @@
-![Vitória Stavis](https://user-images.githubusercontent.com/72163805/112758242-a2f08b00-8fc3-11eb-9e52-7c5c141349ac.png)
+<header>![Vitória Stavis(1)](https://user-images.githubusercontent.com/72163805/112758331-290cd180-8fc4-11eb-9bb5-adb6ecdddfad.png)</header>
 
 
 # Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
