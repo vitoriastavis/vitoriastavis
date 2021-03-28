@@ -1,7 +1,10 @@
-# Hey there. I am Vitória Stavis de Araujo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+![Vitória Stavis](https://user-images.githubusercontent.com/72163805/112758242-a2f08b00-8fc3-11eb-9e52-7c5c141349ac.png)
 
-## 🇧🇷 Brazilian
-## Studying Biomedical Informatics at Federal University of Parana
+
+# Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
+## 🇧🇷 I am Brazilian
+## Currently studying Biomedical Informatics at Federal University of Parana
 
 ## Interests:
 🌏 Nature
