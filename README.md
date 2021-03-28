@@ -17,7 +17,7 @@
 ![r 24](https://user-images.githubusercontent.com/72163805/112757804-abe05d00-8fc1-11eb-8db3-c085d8fbbb8c.png)   R
 
 ## Projects:
-<a href="https://github.com/vitoriastavis/datascientistinpractice"></a> [Approving loan requests based on monthly income, sex, debts, marital statatus with Python and Machine Learning](https://github.com/vitoriastavis/datascientistinpractice)
+<a href="https://github.com/vitoriastavis/datascientistinpractice"></a> [Approving loan requests based on monthly income, sex, debts, marital status with Python and Machine Learning](https://github.com/vitoriastavis/datascientistinpractice)
 
 <a href="https://github.com/vitoriastavis/datascientistinpractice"></a> [Analysis of the mental health in the city of Curitiba with Python](https://github.com/vitoriastavis/datascientistinpractice)  
 
