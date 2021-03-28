@@ -1,4 +1,5 @@
-![Vitória Stavis(5)](https://user-images.githubusercontent.com/72163805/112758706-227f5980-8fc6-11eb-92cc-146f922170a7.png)
+![Vitória Stavis(6)](https://user-images.githubusercontent.com/72163805/112758828-aafdfa00-8fc6-11eb-889f-0d0d6d3ed853.png)
+
 
 
 
