@@ -1,10 +1,10 @@
-<h>![Vitória Stavis(1)](https://user-images.githubusercontent.com/72163805/112758331-290cd180-8fc4-11eb-9bb5-adb6ecdddfad.png)</h>
+![Vitória Stavis(1)](https://user-images.githubusercontent.com/72163805/112758331-290cd180-8fc4-11eb-9bb5-adb6ecdddfad.png)
 
 
 # Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ## 🇧🇷 I am Brazilian
-## Currently studying Biomedical Informatics at Federal University of Parana
+### Currently studying Biomedical Informatics at Federal University of Parana
 
 ## Interests:
 🌏 Nature
