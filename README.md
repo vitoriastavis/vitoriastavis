@@ -24,7 +24,7 @@
 ## Projects:
 <a href="https://github.com/vitoriastavis/datascientistinpractice"></a> [Approving loan requests based on monthly income, sex, debts, marital status with Python and Machine Learning](https://github.com/vitoriastavis/datascientistinpractice)
 
-<a href="https://github.com/vitoriastavis/datascientistinpractice"></a> [Ongoing - Analysis of mental health in the city of Curitiba with Python](https://github.com/vitoriastavis/datascientistinpractice)  
+<a href="https://github.com/vitoriastavis/datascientistinpractice"></a> [Ongoing - Analysis of mental health with Python - TechLabs](https://github.com/vitoriastavis/datascientistinpractice)  
 
 <a href="https://github.com/vitoriastavis/datascientistinpractice"></a> [Ongoing - Analysis of my Netflix data with Python](https://github.com/vitoriastavis/datascientistinpractice)  
 
