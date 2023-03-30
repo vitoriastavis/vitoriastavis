@@ -25,9 +25,9 @@
 and C in college.
 
 ## Projects:
-<a href="https://github.com/vitoriastavis/datascientistinpractice"></a> [Approving loan requests based on monthly income, sex, debts, marital status with Python and Machine Learning](https://github.com/vitoriastavis/datascientistinpractice)
+<a href="https://github.com/vitoriastavis/datascientistinpractice"></a> [Approving loan requests based on monthly income, sex, debts, marital status with Machine Learning](https://github.com/vitoriastavis/datascientistinpractice)
 
-<a href="https://github.com/vitoriastavis/datascientistinpractice"></a> [Analysis of mental health with Python - TechLabs](https://github.com/vitoriastavis/TechLabsProject_PsiData)  
+<a href="https://github.com/vitoriastavis/datascientistinpractice"></a> [Analysis of mental health with Python - Data Science TechLabs](https://github.com/vitoriastavis/TechLabsProject_PsiData)  
 
 ## Find me at:
 
