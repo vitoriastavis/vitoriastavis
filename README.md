@@ -5,8 +5,7 @@
 
 # Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-## 🇧🇷 I am Brazilian
-### Currently studying Biomedical Informatics at Federal University of Parana
+### Currently studying Biomedical Informatics at Federal University of Parana 🇷
 ### Exchange student at Jagiellonian University - Kraków, Poland ![PolskaPolandGIF](https://user-images.githubusercontent.com/72163805/223135010-c4214a17-9e6f-49e1-b195-e9a1fa019ab6.gif)
 
 
