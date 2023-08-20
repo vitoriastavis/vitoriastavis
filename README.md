@@ -4,7 +4,7 @@
 
 # Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-### Currently studying Biomedical Informatics at Federal University of Parana ![br](https://github.com/yammadev/flag-icons/blob/master/png/BR.png?raw=true)
+### Currently studying Biomedical Informatics at Federal University of Parana ![br](https://github.com/yammadev/flag-icons/blob/master/png/BR.png?raw=true), specializing in bioinformatics.
 ### Exchange student at Jagiellonian University - Kraków, Poland ![PolskaPolandGIF](https://user-images.githubusercontent.com/72163805/223135010-c4214a17-9e6f-49e1-b195-e9a1fa019ab6.gif)
 
 
