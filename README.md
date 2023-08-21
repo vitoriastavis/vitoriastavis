@@ -5,7 +5,7 @@
 # Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### Currently studying Biomedical Informatics at Federal University of Parana ![br](https://github.com/yammadev/flag-icons/blob/master/png/BR.png?raw=true), specializing in bioinformatics.
-### Exchange student at Jagiellonian University - Kraków, Poland ![PolskaPolandGIF](https://user-images.githubusercontent.com/72163805/223135010-c4214a17-9e6f-49e1-b195-e9a1fa019ab6.gif)
+### Exchange student at Jagiellonian University - Kraków, Poland
 
 
 ## Interests:
@@ -23,10 +23,14 @@
 
 and C in college.
 
-## Projects:
+## Repos:
 <a href="https://github.com/vitoriastavis/datascientistinpractice"></a> [Approving loan requests based on monthly income, sex, debts, marital status with Machine Learning](https://github.com/vitoriastavis/datascientistinpractice)
 
 <a href="https://github.com/vitoriastavis/datascientistinpractice"></a> [Analysis of mental health with Python - Data Science TechLabs](https://github.com/vitoriastavis/TechLabsProject_PsiData)  
+
+All repos ending in -ufpr are related to my experience at Federal University of Paraná.
+
+All repos ending in -uj are related to my experience as exchange student at Jagiellonian University.
 
 ## Find me at:
 
