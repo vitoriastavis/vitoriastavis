@@ -8,6 +8,6 @@ Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangan
 🖥️ Coding
 💭 Mental health
 
-* Find me at: <a href="https://www.linkedin.com/in/vitoriastavis"><img src="https://user-images.githubusercontent.com/72163805/112757608-d4b42280-8fc0-11eb-92fd-df007da05247.png" width="16"></a> [LinkedIn](https://www.linkedin.com/in/vitoriastavis)  
+* Find me at <a href="https://www.linkedin.com/in/vitoriastavis"><img src="https://user-images.githubusercontent.com/72163805/112757608-d4b42280-8fc0-11eb-92fd-df007da05247.png" width="16"></a> [LinkedIn](https://www.linkedin.com/in/vitoriastavis)  
 
 
